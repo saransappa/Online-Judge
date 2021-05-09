@@ -1,0 +1,10 @@
+Input Format:
+The first line denotes the number of test cases and the next t lines denote pairs of a and b
+Ouput Format:
+For every line print the sum of a and b
+Sample Test case:
+1
+2
+3
+Output:
+5
